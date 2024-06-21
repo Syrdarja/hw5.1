@@ -1,5 +1,4 @@
 package ru.netology.delivery.test;
-import com.codeborne.selenide.Condition;
 import com.github.javafaker.Faker;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.Keys;
