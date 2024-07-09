@@ -1,1 +1,4 @@
-[![Java CI with Gradle](https://github.com/Syrdarja/hw5.1/actions/workflows/gradle.yml/badge.svg)](https://github.com/Syrdarja/hw5.1/actions/workflows/gradle.yml)
+![GET](https://github.com/Syrdarja/hw5.1/assets/159018853/6613f69f-be67-4e5d-af30-740303acf547)
+
+![Screenshot_1](https://github.com/Syrdarja/hw5.1/assets/159018853/3e967eb0-6537-409a-9138-afeebb1eea41)
+
